@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 👨‍💻 All of my projects are available at [https://sujoy-singha-portfolio-showcase.lovable.app/](https://sujoy-singha-portfolio-showcase.lovable.app/)
+
 - 💬 Ask me about **A detailed oriented react devloper**
 
 - 📫 How to reach me **sujoyscs@gmail.com**
